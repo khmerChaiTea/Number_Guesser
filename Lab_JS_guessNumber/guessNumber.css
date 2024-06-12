@@ -1,6 +1,9 @@
 html {
   font-family: "Times New Roman", Times, serif;
   background-color: whitesmoke;
+  background-image: url("numbers.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 body {
@@ -13,7 +16,7 @@ body {
 .container {
   margin: 0 auto;
   margin-top: 100px;
-  background-color: rgb(247, 58, 190);
+  background-color: rgb(236, 245, 117);
   width: 500px;
   padding: 25px;
   border-radius: 5px;
